@@ -26,7 +26,7 @@ Plugin 'tpope/vim-fugitive'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 
-let mpleader=","
+let mapleader=","
 
 set laststatus=2
 syntax on
